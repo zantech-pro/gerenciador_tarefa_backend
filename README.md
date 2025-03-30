@@ -53,6 +53,7 @@ python manager_task.py
 
 ✅ Utilização de biblioteca time para criação de carimbo de data/hora, subtração de datas/hora 
 
+✅ Algoritimo para manipulação da coluna status com base na data/hora
 
 
 📜 Licença
