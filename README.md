@@ -22,7 +22,7 @@ Objetivo: Dominar os conceitos procedurais e logica, utilizando como desafios ap
 ```bash
 git clone https://github.com/zantech-pro/gerenciador_tarefa_backend.git
 ```
-## 2. Execute o jogo:
+## 2. Execute o Sistema:
 ```bash
 python manager_task.py
 ```
