@@ -27,3 +27,14 @@ git clone https://github.com/zantech-pro/gerenciador_tarefa_backend.git
 python manager_task.py
 ```
 # 🖥️ Capturas de Tela
+**Tela de Bem-Vindo do sistema**<br/>
+![tela de benvindos](print_telas/Tela_welcome.png)
+
+**Tela de Menu Principal do sistema**<br/>
+![tela de menu principal](print_telas/tela_menu_principal.png)
+
+**Tela de Visualização do sistema**<br/>
+![Tela Visualização](print_telas/tela_view.png)
+
+**Após rodar o sistema aparecera a base CSV**<br/>
+![Tela Base files](print_telas/tela_files.png)
